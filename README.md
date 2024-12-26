@@ -6,8 +6,21 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# 💫 About Me:
-Hi there! 👋<br><br>I'm a passionate developer transitioning into the exciting world of Python, Django, and AI/ML. With a strong foundation in web development and e-commerce, I'm eager to apply my problem-solving skills to create scalable, intelligent solutions.<br><br>🚀 What I'm currently working on:<br><br>     Exploring Python and Django frameworks<br>     Learning the fundamentals of AI and Machine Learning<br><br>✨ What drives me:<br><br>     Continuous learning, innovation, and building solutions that make an impact.<br><br>Let's connect and collaborate! 😊
+# Hi there! 👋  
+
+I’m a developer with a solid background in **Python**, **Django**, and **AI/ML**, bringing years of experience in **web development** and **e-commerce**. I enjoy solving complex problems and building intelligent, scalable solutions that make a tangible impact.  
+
+## 💡 What I do  
+- Build robust backends with **Python** and **Django**  
+- Develop **AI/ML models** to automate processes and uncover insights  
+- Deliver clean, efficient, and scalable solutions for modern web applications  
+
+## 🌟 What keeps me going  
+I’m driven by curiosity, innovation, and the challenge of translating ideas into real-world solutions. There’s always something new to learn and a better way to build—and that’s what excites me every day.  
+
+## 🤝 Let’s connect  
+I’m always open to collaborations and enjoy discussing new ideas, whether it’s about AI, web development, or creating something impactful together.  
+
 
 [![An image of @rejith77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rejith77)](https://holopin.io/@rejith77)
 
