@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there!  
 
-I’m a developer with a solid background in **AI/ML**, bringing years of experience in **Health Care** and **e-commerce**. I enjoy solving complex problems and building intelligent, scalable solutions that make a tangible impact.  
+I’m an Engineer with a solid background in **AI/ML**, bringing years of experience in **Health Care** and **e-commerce**. I enjoy solving complex problems and building intelligent, scalable solutions that make a tangible impact.  
 
 ## Let’s connect  
 I’m always open to collaborations and enjoy discussing new ideas, whether it’s about AI/ML, development, or creating something impactful together.  
